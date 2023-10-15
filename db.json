@@ -1,0 +1,29 @@
+{
+      "activities": [
+        {
+          "name": "Cosecha de Manzanas",
+          "description": "Cosecha de manzanas en nuestro huerto",
+          "start_date": "2020-04-15",
+          "finish_date": "2020-04-20"
+        },
+        {
+          "name": "Empaque de Duraznos",
+          "description": "Empaque y preparación de duraznos para envío",
+          "start_date": "2020-04-22",
+          "finish_date": "2020-04-27"
+        },
+        {
+          "name": "Entrega de Uvas",
+          "description": "Entrega de uvas frescas a nuestros clientes",
+          "start_date": "2020-04-30",
+          "finish_date": "2020-05-05"
+        },
+        {
+          "name": "Recolección de Peras",
+          "description": "Recolección de peras maduras del huerto",
+          "start_date": "2020-05-08",
+          "finish_date": "2020-05-13"
+        }
+      ]
+    }
+    
